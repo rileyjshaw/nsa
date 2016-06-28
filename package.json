@@ -1,0 +1,33 @@
+{
+  "name": "nsa-ipsum",
+  "version": "1.0.0",
+  "description": "Key Words & Search Terms from the DHS Analyst's Desktop Binder (2011)",
+  "main": "words.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rileyjshaw/nsa.git"
+  },
+  "keywords": [
+    "nsa",
+    "national",
+    "security",
+    "agency",
+    "surveillance",
+    "government",
+    "privacy",
+    "freedom",
+    "dragnet",
+    "homeland",
+    "security",
+    "monitoring"
+  ],
+  "author": "rileyjshaw <i@rileyjshaw.com> (http://rileyjshaw.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rileyjshaw/nsa/issues"
+  },
+  "homepage": "https://github.com/rileyjshaw/nsa#readme"
+}
