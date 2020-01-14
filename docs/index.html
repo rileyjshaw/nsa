@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>NSA Ipsum</title>
+</head>
+<body>
+  <div id="elm-container"></div>
+  <script type="text/javascript">
+    window.module = {};
+  </script>
+  <script src="../words.js" type="text/javascript"></script>
+  <script type="text/javascript">
+    var node = document.getElementById('elm-container');
+    var app = Elm.Main.embed(node, module.exports);
+  </script>
+</body>
+</html>

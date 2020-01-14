@@ -1,0 +1,6 @@
+# This file is for unifying the text formatting for different editors and IDEs.
+# Learn more at http://EditorConfig.org
+
+[*]
+indent_size = 2
+indent_style = space
