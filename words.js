@@ -176,7 +176,8 @@ module.exports = {
 		'ricin',
 		'sarin',
 		'spillover',
-		'suspicious package/device',
+		'suspicious device',
+		'suspicious package',
 		'toxic',
 	],
 
